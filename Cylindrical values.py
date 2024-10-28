@@ -45,5 +45,5 @@ while True:
    # Prompt to continue or exit
    proceed = input("\nPress enter to calculate another value ")
    if proceed.strip():  # Exit if anything other than space is pressed
-       print("Exiting the program.")
+       print("Exiting the program thank  you so much ")
        break
